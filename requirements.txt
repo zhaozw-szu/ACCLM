@@ -1,0 +1,10 @@
+torch
+torchvision
+torchaudio
+numpy
+scikit-learn
+matplotlib
+gensim
+tqdm
+pandas
+PyExecJS
