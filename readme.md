@@ -27,7 +27,9 @@ This project uses `mp4box` for low-level MP4 container parsing.
 > The exact version is locked in `package-lock.json`.
 
 
-Weight and traininng code,   will be released soon.
+## Weight and traininng code
+
+Weight and traininng code will be released soon.
 
 
 ## Extract Container Information
