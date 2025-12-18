@@ -68,11 +68,11 @@ python get_container/mts_parse.py --csv_path "mts.csv" --save_path "container_js
 If you use this code or data in your research, please cite our paper:
 
 ```bibtex
-@article{li2026adaptive,
+@article{li2025adaptive,
   author = {Li, Yuanman and Zhao, Zhiwei and Ye, Jiaxiong and Zheng, Yulong and Li, Bin and Ni, Rongrong and Wang, Wei and Li, Xia},
   title = {Adaptive Container Characterization via Language Mapping for Video Integrity and Source Analysis},
   journal = {IEEE Transactions on Artificial Intelligence},
-  year = {2026}
+  year = {2025}
 }
 ```
 
